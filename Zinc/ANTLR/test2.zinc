@@ -1,0 +1,4 @@
+ver:"3.0" database:"test" dis:"Site Energy Summary"
+siteName dis:"Sites", val dis:"Value" unit:"kW"
+"Site 1", 356.214kW
+"Site 2", 463.028kW
